@@ -6,7 +6,6 @@ import Wating from "./components/Wating";
 import Progress from "./components/Progress";
 import Video from "./components/Video";
 import './reset.css';
-import styles from './css/Css.module.css'
 
 function App() {
   return (

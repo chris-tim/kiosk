@@ -41,3 +41,13 @@
     background:#eee;
     font-size:2.5vh;
 }
+.bgGreen {
+    background-color:seagreen;
+}
+.bgBlue {
+    background-color:cornflowerblue;    
+}
+.bgRed {
+    background-color:tomato;
+    
+}
