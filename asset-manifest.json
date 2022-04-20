@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/kiosk/static/css/main.f79d3f21.css",
-    "main.js": "/kiosk/static/js/main.b564dc44.js",
+    "main.css": "/kiosk/static/css/main.c81876ee.css",
+    "main.js": "/kiosk/static/js/main.36ca1d3e.js",
     "static/media/ship.png": "/kiosk/static/media/ship.852151c7a446f10e5c57.png",
     "index.html": "/kiosk/index.html",
-    "main.f79d3f21.css.map": "/kiosk/static/css/main.f79d3f21.css.map",
-    "main.b564dc44.js.map": "/kiosk/static/js/main.b564dc44.js.map"
+    "main.c81876ee.css.map": "/kiosk/static/css/main.c81876ee.css.map",
+    "main.36ca1d3e.js.map": "/kiosk/static/js/main.36ca1d3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f79d3f21.css",
-    "static/js/main.b564dc44.js"
+    "static/css/main.c81876ee.css",
+    "static/js/main.36ca1d3e.js"
   ]
 }
