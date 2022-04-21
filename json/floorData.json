@@ -1,0 +1,160 @@
+{
+    "floor1":[
+        {
+            "roomName" : ["MRI실",33],
+            "position" : [95,60],
+            "condition" : [125,90,"green"]
+        },
+        {
+            "roomName" : ["X-RAY실",5],
+            "position" : [315,40],
+            "condition" : [345,43,"green"]
+        },
+        {
+            "roomName" : ["유방촬영실",98],
+            "position" : [440,40],
+            "condition" : [465,27,"red"]
+        },
+        {
+            "roomName" : ["골밀도실",31],
+            "position" : [540,40],
+            "condition" : [563,46,"orange"]
+        },
+        {
+            "roomName" : ["안압/안저실",55],
+            "position" : [625,40],
+            "condition" : [652,33,"orange"]
+        }  ,
+        {
+            "roomName" : ["폐기능검사실",3],
+            "position" : [700,40],
+            "condition" : [730,33,"green"]
+        },
+        {
+            "roomName" : ["안과검사실",1],
+            "position" : [890,10],
+            "condition" : [923,20,"green"]
+        }   ,
+        {
+            "roomName" : ["진료실1",7],
+            "position" : [30,520],
+            "condition" : [55,530,"green"]
+        },
+        {
+            "roomName" : ["진료실2",201],
+            "position" : [890,120],
+            "condition" : [923,124,"red"]
+        }   ,
+        {
+            "roomName" : ["체성분실",1],
+            "position" : [890,190],
+            "condition" : [920,205,"green"]
+        }   ,
+        {
+            "roomName" : ["동맥경화실",122],
+            "position" : [890,250],
+            "condition" : [920,270,"green"]
+        },
+        {
+            "roomName" : ["청력실",44],
+            "position" : [890,330],
+            "condition" : [920,360,"orange"]
+        },
+        {
+            "roomName" : ["기초검사실",33],
+            "position" : [890,500],
+            "condition" : [920,505,"orange"]
+        },
+        {
+            "roomName" : ["초음파실",1],
+            "position" : [30,330],
+            "condition" : [55,340,"green"]
+        },
+        {
+            "roomName" : ["심전도실",0],
+            "position" : [30,590],
+            "condition" : [55,620,"green"]
+        }
+    ],
+    "floor2":[
+        {
+            "roomName" : ["CT실",90],
+            "position" : [50,50],
+            "condition" : [125,90,"orange"]
+        },
+        {
+            "roomName" : ["진료실",2],
+            "position" : [130,50],
+            "condition" : [125,90,"green"]
+        },
+        {
+            "roomName" : ["초음파실1",170],
+            "position" : [230,50],
+            "condition" : [125,90,"red"]
+        },
+        {
+            "roomName" : ["초음파실2",8],
+            "position" : [330,50],
+            "condition" : [125,90,"green"]
+        },
+        {
+            "roomName" : ["심장내과",5],
+            "position" : [430,50],
+            "condition" : [125,90,"green"]
+        }      
+    ],
+    "floor3":[
+        {
+            "roomName" : ["일반촬영실",7],
+            "position" : [50,50],
+            "condition" : [125,90,"green"]
+        },
+        {
+            "roomName" : ["골밀도",133],
+            "position" : [130,50],
+            "condition" : [125,90,"red"]
+        },
+        {
+            "roomName" : ["청력실",94],
+            "position" : [230,50],
+            "condition" : [125,90,"red"]
+        },
+        {
+            "roomName" : ["기초검사실",3],
+            "position" : [330,50],
+            "condition" : [125,90,"green"]
+        },
+        {
+            "roomName" : ["안압/안저실",11],
+            "position" : [430,50],
+            "condition" : [125,90,"green"]
+        }      
+    ],
+    "floor4":[
+        {
+            "roomName" : ["맘모실",125],
+            "position" : [50,50],
+            "condition" : [125,90,"red"]
+        },
+        {
+            "roomName" : ["초음파실",1],
+            "position" : [130,50],
+            "condition" : [125,90,"green"]
+        },
+        {
+            "roomName" : ["폐기능실",3],
+            "position" : [230,50],
+            "condition" : [125,90,"green"]
+        },
+        {
+            "roomName" : ["동맥경화실",2],
+            "position" : [330,50],
+            "condition" : [125,90,"green"]
+        },
+        {
+            "roomName" : ["심전도실",9],
+            "position" : [430,50],
+            "condition" : [125,90,"green"]
+        }      
+    ]
+}
